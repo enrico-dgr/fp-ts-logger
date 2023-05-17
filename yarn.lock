@@ -9,15 +9,17 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
-"@enrico-dgr/fp-ts-fs@../fp-ts-fs/dist":
+"@enrico-dgr/fp-ts-fs@^1.0.0":
   version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@enrico-dgr/fp-ts-fs/-/fp-ts-fs-1.0.0.tgz#f6daece098c879a1fce85b4deaddec424bf53fb1"
+  integrity sha512-7X0caoFDKk5FsXKI0DK8I3AJlROKihCGRWRTyBBl3zEWWwqaDuqsgM9RyHP0BqKtvTNXLgExpPPP2VrBzT0iNA==
   dependencies:
-    "@enrico-dgr/fp-ts-logger" "^0.1.0"
+    "@enrico-dgr/fp-ts-logger" "^0.1.1"
 
-"@enrico-dgr/fp-ts-logger@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@enrico-dgr/fp-ts-logger/-/fp-ts-logger-0.1.0.tgz#6e0f6322734de20db1a7e924ea9601472cc94f39"
-  integrity sha512-1EEuMKBwXwqTodZVzcuk/S1AFP+FSEqrYtNA2zNv0CreWYcjf3cFfSeKLx23QMxMADEtWDkD7lyjMAZjVfjuFg==
+"@enrico-dgr/fp-ts-logger@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@enrico-dgr/fp-ts-logger/-/fp-ts-logger-0.1.1.tgz#79a4841a5e97083144117fadc21f0384ff2517c8"
+  integrity sha512-GzaK51t4sxr5EgCksnfvlEddIlNEHT7uReHhwpsvhYS45s/l8qG/xSovadoybbp3p8o4Be8NoS3IrES3IXK3yA==
 
 "@jest/schemas@^29.4.3":
   version "29.4.3"
